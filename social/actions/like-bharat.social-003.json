@@ -1,0 +1,9 @@
+{
+  "id": "like-bharat.social-003",
+  "type": "like",
+  "author": "ed25519:e292d241ce730da1cece896955e8f22a593effa13024fc018d953a9144dda778",
+  "created": "2026-09-09T02:00:52.129912Z",
+  "target": "post-sam.social-001.json",
+  "targetHandle": "sam.social",
+  "signature": "GwZWDR6nPivJFXqaJu9eZxe+KlJjRZpoKBVb6P7ibHpNcl4LXo+imPC/lPy1Vuwg+fu2yQ1+LPmOpIyS7VDCAw=="
+}
